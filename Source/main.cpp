@@ -19,7 +19,7 @@
 // THE SOFTWARE.
 
 // this renders the rects using LOVE with a simple lua script included
-#define USE_LOVE2D
+//#define USE_LOVE2D
 
 #include "StripPacking.h"
 #include <sstream>
