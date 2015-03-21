@@ -8,6 +8,9 @@ Without the USE_LOVE2D define the solutions are printed to the console.
 To build and run simply do:
 
 cmake .
+
 make
+
 cd Build
+
 ./Main
