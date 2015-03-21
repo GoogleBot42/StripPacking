@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 2.6)
+PROJECT(StringPacking)
+
+SET(CMAKE_CXX_FLAGS_RELEASE "-O3")
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+
+FILE(GLOB SRCS Source/*.cpp)
+
+ADD_EXECUTABLE(Main ${SRCS})
