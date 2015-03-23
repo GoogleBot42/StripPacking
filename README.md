@@ -14,3 +14,5 @@ make
 cd Build
 
 ./Main
+
+See this for more info: http://cgi.csc.liv.ac.uk/~epa/surveyhtml.html
